@@ -2,8 +2,8 @@
 # Site
 
 title: Recipies
-url: "https://red-stripe.github.io/recipes.irecentlylearnt/"
-baseurl:
+url: "https://red-stripe.github.io"
+baseurl: "/recipes.irecentlylearnt"
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
